@@ -348,3 +348,19 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/.env
+/.vscode
+.DS_Store
+/nbproject
+/defafult.conf
+/php.ini
+
+data/*
+!data/mysql/.gitkeep
+
+www/*
+!www/website/*
+
+logs/*
+!logs/apache2/.gitkeep
+!logs/mysql/.gitkeep
