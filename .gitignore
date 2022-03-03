@@ -2,7 +2,8 @@
 /.vscode
 .DS_Store
 /nbproject
-
+/desafult.conf
+/php.ini
 
 data/*
 !data/mysql/.gitkeep
